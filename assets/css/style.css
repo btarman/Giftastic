@@ -1,0 +1,43 @@
+body {
+	background-image: url("../../image3.jpg");
+
+}
+
+#button-div {
+	margin: 10px 0px 25px 0px;
+}
+
+.rapper-btn {
+	background-color: lightblue;
+	font-size: 15px;
+	margin: 0px 5px;
+	border-radius: 10%;
+}
+img {
+	margin: 5px 0px;
+}
+#add-rapper {
+	background-color: lightblue;
+
+	font-size: 15px;
+	border-radius: 10%;
+
+}
+#rapper-form {
+	float: right;
+	margin: 30px 40px;
+	border: solid 2px lightblue;
+	padding: 10px;
+	background-color: #3A414B;
+}
+
+#gif-div {
+	width: 60%;
+	float: left;
+	margin-left: 15px;
+}
+
+label {
+	font-size: 20px;
+	color: white;
+}
